@@ -1,0 +1,20 @@
+D:\TP-Aula6\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.csprojAssemblyReference.cache
+D:\TP-Aula6\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora_TP.frmCalc.resources
+D:\TP-Aula6\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora_TP.Properties.Resources.resources
+D:\TP-Aula6\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.csproj.GenerateResource.cache
+D:\TP-Aula6\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.csproj.CoreCompileInputs.cache
+D:\TP-Aula6\Calculadora-TP\Calculadora-TP\bin\Debug\Calculadora-TP.exe.config
+D:\TP-Aula6\Calculadora-TP\Calculadora-TP\bin\Debug\Calculadora-TP.exe
+D:\TP-Aula6\Calculadora-TP\Calculadora-TP\bin\Debug\Calculadora-TP.pdb
+D:\TP-Aula6\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.exe
+D:\TP-Aula6\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.pdb
+D:\Professor\Modular\TP - Guilherme\TP-Aula6-Calculadora-master\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\bin\Debug\Calculadora-TP.exe.config
+D:\Professor\Modular\TP - Guilherme\TP-Aula6-Calculadora-master\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\bin\Debug\Calculadora-TP.exe
+D:\Professor\Modular\TP - Guilherme\TP-Aula6-Calculadora-master\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\bin\Debug\Calculadora-TP.pdb
+D:\Professor\Modular\TP - Guilherme\TP-Aula6-Calculadora-master\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.csprojAssemblyReference.cache
+D:\Professor\Modular\TP - Guilherme\TP-Aula6-Calculadora-master\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora_TP.frmCalc.resources
+D:\Professor\Modular\TP - Guilherme\TP-Aula6-Calculadora-master\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora_TP.Properties.Resources.resources
+D:\Professor\Modular\TP - Guilherme\TP-Aula6-Calculadora-master\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.csproj.GenerateResource.cache
+D:\Professor\Modular\TP - Guilherme\TP-Aula6-Calculadora-master\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.csproj.CoreCompileInputs.cache
+D:\Professor\Modular\TP - Guilherme\TP-Aula6-Calculadora-master\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.exe
+D:\Professor\Modular\TP - Guilherme\TP-Aula6-Calculadora-master\TP-Aula6-Calculadora-master\Calculadora-TP\Calculadora-TP\obj\Debug\Calculadora-TP.pdb
